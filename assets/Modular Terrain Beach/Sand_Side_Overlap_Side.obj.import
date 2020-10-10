@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Sand_Side_Overlap_Side.obj-fcafe6a5b9d2d9f2cbd8b0c1efdb858f.mesh"
+
+[deps]
+
+files=[ "res://.import/Sand_Side_Overlap_Side.obj-fcafe6a5b9d2d9f2cbd8b0c1efdb858f.mesh" ]
+
+source_file="res://assets/Modular Terrain Beach/Sand_Side_Overlap_Side.obj"
+dest_files=[ "res://.import/Sand_Side_Overlap_Side.obj-fcafe6a5b9d2d9f2cbd8b0c1efdb858f.mesh", "res://.import/Sand_Side_Overlap_Side.obj-fcafe6a5b9d2d9f2cbd8b0c1efdb858f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

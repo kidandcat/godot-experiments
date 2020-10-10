@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Stairs_Railing_Flat_Curved_Large.obj-8b35feaaa5d2ae1394b4d71792ccf381.mesh"
+
+[deps]
+
+files=[ "res://.import/Stairs_Railing_Flat_Curved_Large.obj-8b35feaaa5d2ae1394b4d71792ccf381.mesh" ]
+
+source_file="res://assets/Temple/Stairs_Railing_Flat_Curved_Large.obj"
+dest_files=[ "res://.import/Stairs_Railing_Flat_Curved_Large.obj-8b35feaaa5d2ae1394b4d71792ccf381.mesh", "res://.import/Stairs_Railing_Flat_Curved_Large.obj-8b35feaaa5d2ae1394b4d71792ccf381.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

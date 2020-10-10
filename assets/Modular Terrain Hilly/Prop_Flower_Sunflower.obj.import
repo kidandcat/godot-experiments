@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Flower_Sunflower.obj-7f9ff2e4986fb8391c7c0a73d05bd735.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Flower_Sunflower.obj-7f9ff2e4986fb8391c7c0a73d05bd735.mesh" ]
+
+source_file="res://assets/Modular Terrain Hilly/Prop_Flower_Sunflower.obj"
+dest_files=[ "res://.import/Prop_Flower_Sunflower.obj-7f9ff2e4986fb8391c7c0a73d05bd735.mesh", "res://.import/Prop_Flower_Sunflower.obj-7f9ff2e4986fb8391c7c0a73d05bd735.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

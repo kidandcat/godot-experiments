@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/trap_ceiling_crusher_base.obj-74ad7aaa589369110b958b54b7049b6e.mesh"
+
+[deps]
+
+files=[ "res://.import/trap_ceiling_crusher_base.obj-74ad7aaa589369110b958b54b7049b6e.mesh" ]
+
+source_file="res://assets/Dungeon Set 2/trap_ceiling_crusher_base.obj"
+dest_files=[ "res://.import/trap_ceiling_crusher_base.obj-74ad7aaa589369110b958b54b7049b6e.mesh", "res://.import/trap_ceiling_crusher_base.obj-74ad7aaa589369110b958b54b7049b6e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

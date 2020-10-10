@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Stairs_Railing_Ramp_Curved_Small.obj-0628586bc938b05ab29b847bfe81e078.mesh"
+
+[deps]
+
+files=[ "res://.import/Stairs_Railing_Ramp_Curved_Small.obj-0628586bc938b05ab29b847bfe81e078.mesh" ]
+
+source_file="res://assets/Temple/Stairs_Railing_Ramp_Curved_Small.obj"
+dest_files=[ "res://.import/Stairs_Railing_Ramp_Curved_Small.obj-0628586bc938b05ab29b847bfe81e078.mesh", "res://.import/Stairs_Railing_Ramp_Curved_Small.obj-0628586bc938b05ab29b847bfe81e078.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Floor_Pressure_Plate.obj-6531a45c268d1af24222e0026f5a6e9e.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Floor_Pressure_Plate.obj-6531a45c268d1af24222e0026f5a6e9e.mesh" ]
+
+source_file="res://assets/Temple/Prop_Floor_Pressure_Plate.obj"
+dest_files=[ "res://.import/Prop_Floor_Pressure_Plate.obj-6531a45c268d1af24222e0026f5a6e9e.mesh", "res://.import/Prop_Floor_Pressure_Plate.obj-6531a45c268d1af24222e0026f5a6e9e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Stairs_Steps_Curved.obj-baf45e08e58cd46612d5a2ee0ea6298e.mesh"
+
+[deps]
+
+files=[ "res://.import/Stairs_Steps_Curved.obj-baf45e08e58cd46612d5a2ee0ea6298e.mesh" ]
+
+source_file="res://assets/Temple/Stairs_Steps_Curved.obj"
+dest_files=[ "res://.import/Stairs_Steps_Curved.obj-baf45e08e58cd46612d5a2ee0ea6298e.mesh", "res://.import/Stairs_Steps_Curved.obj-baf45e08e58cd46612d5a2ee0ea6298e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

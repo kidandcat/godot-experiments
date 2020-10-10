@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/struct_large_curved_wall_incline.obj-dafde1eed16945ef1dc4d20709e18318.mesh"
+
+[deps]
+
+files=[ "res://.import/struct_large_curved_wall_incline.obj-dafde1eed16945ef1dc4d20709e18318.mesh" ]
+
+source_file="res://assets/Dungeon Set 2/struct_large_curved_wall_incline.obj"
+dest_files=[ "res://.import/struct_large_curved_wall_incline.obj-dafde1eed16945ef1dc4d20709e18318.mesh", "res://.import/struct_large_curved_wall_incline.obj-dafde1eed16945ef1dc4d20709e18318.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Wall_Straight_Circle_End.obj-b52876b01867fbbebe79b4e7115bbc92.mesh"
+
+[deps]
+
+files=[ "res://.import/Wall_Straight_Circle_End.obj-b52876b01867fbbebe79b4e7115bbc92.mesh" ]
+
+source_file="res://assets/Temple/Wall_Straight_Circle_End.obj"
+dest_files=[ "res://.import/Wall_Straight_Circle_End.obj-b52876b01867fbbebe79b4e7115bbc92.mesh", "res://.import/Wall_Straight_Circle_End.obj-b52876b01867fbbebe79b4e7115bbc92.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

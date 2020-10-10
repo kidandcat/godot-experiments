@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Flower_Lily_Pink.obj-b286be0052ca1aa8d5fdeb8f73ddff55.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Flower_Lily_Pink.obj-b286be0052ca1aa8d5fdeb8f73ddff55.mesh" ]
+
+source_file="res://assets/Modular Terrain Hilly/Prop_Flower_Lily_Pink.obj"
+dest_files=[ "res://.import/Prop_Flower_Lily_Pink.obj-b286be0052ca1aa8d5fdeb8f73ddff55.mesh", "res://.import/Prop_Flower_Lily_Pink.obj-b286be0052ca1aa8d5fdeb8f73ddff55.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

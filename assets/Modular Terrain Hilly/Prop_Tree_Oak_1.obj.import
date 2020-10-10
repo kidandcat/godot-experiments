@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Tree_Oak_1.obj-88b2087a81bd49b045e6d3e1289e2a97.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Tree_Oak_1.obj-88b2087a81bd49b045e6d3e1289e2a97.mesh" ]
+
+source_file="res://assets/Modular Terrain Hilly/Prop_Tree_Oak_1.obj"
+dest_files=[ "res://.import/Prop_Tree_Oak_1.obj-88b2087a81bd49b045e6d3e1289e2a97.mesh", "res://.import/Prop_Tree_Oak_1.obj-88b2087a81bd49b045e6d3e1289e2a97.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

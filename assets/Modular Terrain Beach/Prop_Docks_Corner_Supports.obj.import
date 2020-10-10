@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Docks_Corner_Supports.obj-0dc7e0107dac0cfe2cccc2c3ad55efde.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Docks_Corner_Supports.obj-0dc7e0107dac0cfe2cccc2c3ad55efde.mesh" ]
+
+source_file="res://assets/Modular Terrain Beach/Prop_Docks_Corner_Supports.obj"
+dest_files=[ "res://.import/Prop_Docks_Corner_Supports.obj-0dc7e0107dac0cfe2cccc2c3ad55efde.mesh", "res://.import/Prop_Docks_Corner_Supports.obj-0dc7e0107dac0cfe2cccc2c3ad55efde.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

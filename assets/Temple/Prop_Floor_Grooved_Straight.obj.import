@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Floor_Grooved_Straight.obj-933f1ce4787f1b4715e25e9f80dc15e0.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Floor_Grooved_Straight.obj-933f1ce4787f1b4715e25e9f80dc15e0.mesh" ]
+
+source_file="res://assets/Temple/Prop_Floor_Grooved_Straight.obj"
+dest_files=[ "res://.import/Prop_Floor_Grooved_Straight.obj-933f1ce4787f1b4715e25e9f80dc15e0.mesh", "res://.import/Prop_Floor_Grooved_Straight.obj-933f1ce4787f1b4715e25e9f80dc15e0.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

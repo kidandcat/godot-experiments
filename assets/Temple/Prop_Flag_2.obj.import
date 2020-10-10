@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Flag_2.obj-5907a31803e3ba73c3db94d2d4414616.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Flag_2.obj-5907a31803e3ba73c3db94d2d4414616.mesh" ]
+
+source_file="res://assets/Temple/Prop_Flag_2.obj"
+dest_files=[ "res://.import/Prop_Flag_2.obj-5907a31803e3ba73c3db94d2d4414616.mesh", "res://.import/Prop_Flag_2.obj-5907a31803e3ba73c3db94d2d4414616.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

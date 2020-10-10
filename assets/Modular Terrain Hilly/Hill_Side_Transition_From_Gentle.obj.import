@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Hill_Side_Transition_From_Gentle.obj-1328c5940fddea3d1daa35fd6b2aee0c.mesh"
+
+[deps]
+
+files=[ "res://.import/Hill_Side_Transition_From_Gentle.obj-1328c5940fddea3d1daa35fd6b2aee0c.mesh" ]
+
+source_file="res://assets/Modular Terrain Hilly/Hill_Side_Transition_From_Gentle.obj"
+dest_files=[ "res://.import/Hill_Side_Transition_From_Gentle.obj-1328c5940fddea3d1daa35fd6b2aee0c.mesh", "res://.import/Hill_Side_Transition_From_Gentle.obj-1328c5940fddea3d1daa35fd6b2aee0c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

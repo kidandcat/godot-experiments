@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/struct_floor_grate_square.obj-3623ab357b021671d82b88e77b4ed6e0.mesh"
+
+[deps]
+
+files=[ "res://.import/struct_floor_grate_square.obj-3623ab357b021671d82b88e77b4ed6e0.mesh" ]
+
+source_file="res://assets/Dungeon Set 2/struct_floor_grate_square.obj"
+dest_files=[ "res://.import/struct_floor_grate_square.obj-3623ab357b021671d82b88e77b4ed6e0.mesh", "res://.import/struct_floor_grate_square.obj-3623ab357b021671d82b88e77b4ed6e0.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

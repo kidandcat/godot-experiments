@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Cliff_Mid_Corner_Inner_Lg.obj-eafdd0e525169e8f4fc387d899bb6f1a.mesh"
+
+[deps]
+
+files=[ "res://.import/Cliff_Mid_Corner_Inner_Lg.obj-eafdd0e525169e8f4fc387d899bb6f1a.mesh" ]
+
+source_file="res://assets/Modular Terrain Cliff/Cliff_Mid_Corner_Inner_Lg.obj"
+dest_files=[ "res://.import/Cliff_Mid_Corner_Inner_Lg.obj-eafdd0e525169e8f4fc387d899bb6f1a.mesh", "res://.import/Cliff_Mid_Corner_Inner_Lg.obj-eafdd0e525169e8f4fc387d899bb6f1a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

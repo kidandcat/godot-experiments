@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Hollow_Trunk.obj-0417678fce76ee69af6bf4f7d139f5a9.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Hollow_Trunk.obj-0417678fce76ee69af6bf4f7d139f5a9.mesh" ]
+
+source_file="res://assets/Modular Terrain Hilly/Prop_Hollow_Trunk.obj"
+dest_files=[ "res://.import/Prop_Hollow_Trunk.obj-0417678fce76ee69af6bf4f7d139f5a9.mesh", "res://.import/Prop_Hollow_Trunk.obj-0417678fce76ee69af6bf4f7d139f5a9.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

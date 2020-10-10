@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Wall_Curved_Small_Base.obj-fdb124ff76fd6d1c811e15643524bc8c.mesh"
+
+[deps]
+
+files=[ "res://.import/Wall_Curved_Small_Base.obj-fdb124ff76fd6d1c811e15643524bc8c.mesh" ]
+
+source_file="res://assets/Temple/Wall_Curved_Small_Base.obj"
+dest_files=[ "res://.import/Wall_Curved_Small_Base.obj-fdb124ff76fd6d1c811e15643524bc8c.mesh", "res://.import/Wall_Curved_Small_Base.obj-fdb124ff76fd6d1c811e15643524bc8c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

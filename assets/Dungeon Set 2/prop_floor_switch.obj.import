@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/prop_floor_switch.obj-2e63142eee2296166fae64f43ff8bb28.mesh"
+
+[deps]
+
+files=[ "res://.import/prop_floor_switch.obj-2e63142eee2296166fae64f43ff8bb28.mesh" ]
+
+source_file="res://assets/Dungeon Set 2/prop_floor_switch.obj"
+dest_files=[ "res://.import/prop_floor_switch.obj-2e63142eee2296166fae64f43ff8bb28.mesh", "res://.import/prop_floor_switch.obj-2e63142eee2296166fae64f43ff8bb28.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

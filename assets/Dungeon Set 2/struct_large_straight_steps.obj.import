@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/struct_large_straight_steps.obj-3011a046a5a5286a3ad50d790d76dccb.mesh"
+
+[deps]
+
+files=[ "res://.import/struct_large_straight_steps.obj-3011a046a5a5286a3ad50d790d76dccb.mesh" ]
+
+source_file="res://assets/Dungeon Set 2/struct_large_straight_steps.obj"
+dest_files=[ "res://.import/struct_large_straight_steps.obj-3011a046a5a5286a3ad50d790d76dccb.mesh", "res://.import/struct_large_straight_steps.obj-3011a046a5a5286a3ad50d790d76dccb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

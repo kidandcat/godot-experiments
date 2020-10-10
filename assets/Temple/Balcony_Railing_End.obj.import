@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Balcony_Railing_End.obj-4150a4a222993a8061199305cefe49f7.mesh"
+
+[deps]
+
+files=[ "res://.import/Balcony_Railing_End.obj-4150a4a222993a8061199305cefe49f7.mesh" ]
+
+source_file="res://assets/Temple/Balcony_Railing_End.obj"
+dest_files=[ "res://.import/Balcony_Railing_End.obj-4150a4a222993a8061199305cefe49f7.mesh", "res://.import/Balcony_Railing_End.obj-4150a4a222993a8061199305cefe49f7.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

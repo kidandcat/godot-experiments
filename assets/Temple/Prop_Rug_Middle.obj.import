@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Rug_Middle.obj-b98c1180baaab33fb45c41d522bf7c9f.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Rug_Middle.obj-b98c1180baaab33fb45c41d522bf7c9f.mesh" ]
+
+source_file="res://assets/Temple/Prop_Rug_Middle.obj"
+dest_files=[ "res://.import/Prop_Rug_Middle.obj-b98c1180baaab33fb45c41d522bf7c9f.mesh", "res://.import/Prop_Rug_Middle.obj-b98c1180baaab33fb45c41d522bf7c9f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

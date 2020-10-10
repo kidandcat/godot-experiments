@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/struct_large_steps_pillar_topper.obj-56ef5416f37e167a279f445dea7521eb.mesh"
+
+[deps]
+
+files=[ "res://.import/struct_large_steps_pillar_topper.obj-56ef5416f37e167a279f445dea7521eb.mesh" ]
+
+source_file="res://assets/Dungeon Set 2/struct_large_steps_pillar_topper.obj"
+dest_files=[ "res://.import/struct_large_steps_pillar_topper.obj-56ef5416f37e167a279f445dea7521eb.mesh", "res://.import/struct_large_steps_pillar_topper.obj-56ef5416f37e167a279f445dea7521eb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/struct_block_tapered_subtract.obj-e1b83ff66b86e2a2c12ca2496c0e409c.mesh"
+
+[deps]
+
+files=[ "res://.import/struct_block_tapered_subtract.obj-e1b83ff66b86e2a2c12ca2496c0e409c.mesh" ]
+
+source_file="res://assets/Dungeon Set 2/struct_block_tapered_subtract.obj"
+dest_files=[ "res://.import/struct_block_tapered_subtract.obj-e1b83ff66b86e2a2c12ca2496c0e409c.mesh", "res://.import/struct_block_tapered_subtract.obj-e1b83ff66b86e2a2c12ca2496c0e409c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
